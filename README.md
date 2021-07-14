@@ -8,11 +8,11 @@ matplotlib.
 PS: We are still working on this project and will keep updating.
 
 ## Results
-* Top five  CEU
-![](colonizer.jpg)
+Top five  CEU
+![](first.jpg)
 
-* Number of countries freed in a decade as a function of decade starting from 1800 to 2010  
-![](out.jpg)
+Number of countries freed in a decade as a function of decade starting from 1800 to 2010  
+![](second.jpg)
 
 
 ## Note
